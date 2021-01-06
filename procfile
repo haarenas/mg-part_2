@@ -1,0 +1,1 @@
+web: gunicorn mg_part_2.wsgi
